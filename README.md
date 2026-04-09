@@ -44,7 +44,6 @@ Chapter1/
 │   
 ├── .vscode/
 │   └── settings.json   # Python manager and package info
-├── main.py             # Entry point: Runner initialization
 └── .env                # GOOGLE_API_KEY and other API keys
 ```
 
