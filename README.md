@@ -1,5 +1,5 @@
 # Chapter1 - Writing a Simple Agent 
-This chapter guides you through writing a simple LLM agent
+This chapter guides you through writing a simple LLM agent. A standard LLM agent (the "Worker") uses its brain to figure out what to do
 
 This `README.md` is designed to showcase your architectural mindset. It does explain how to write a LLM agent and run the code; it explains **why** you chose this multi-agent pattern and how the **Google ADK** handles state, reasoning, and tool-use.
 
